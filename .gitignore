@@ -1,0 +1,9 @@
+   # Power BI
+   .pbi/
+   *.pbi/cache.abf
+   .pbi/localSettings.json
+
+   # Windows
+   Thumbs.db
+   desktop.ini
+   ~$*
